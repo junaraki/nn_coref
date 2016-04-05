@@ -1,10 +1,12 @@
 # nn_coref
 Neural Coref Models, as described in 
 ["Learning Global Features for Coreference Resolution"](http://nlp.seas.harvard.edu/papers/corefmain.pdf), Sam Wiseman, Alexander M. Rush, and Stuart M. Shieber, NAACL 2016,
-and
-["Learning Anaphoricity and Antecedent Ranking Features for Coreference Resolution"](http://people.seas.harvard.edu/~srush/acl15.pdf), Sam Wiseman, Alexander M. Rush, Stuart M. Shieber, and Jason Weston. ACL 2015.
 
-** Code for ``Learning Global Features for Coreference Resolution'' will be added soon!**
+and
+
+["Learning Anaphoricity and Antecedent Ranking Features for Coreference Resolution"](http://people.seas.harvard.edu/~srush/acl15.pdf), Sam Wiseman, Alexander M. Rush, Stuart M. Shieber, and Jason Weston, ACL 2015.
+
+**Code for ``Learning Global Features for Coreference Resolution'' will be added soon!**
 
 For questions/concerns/bugs please contact swiseman@seas.harvard.edu.
 
